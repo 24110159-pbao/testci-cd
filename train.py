@@ -1,3 +1,3 @@
 print("Python")
 print("Age")
-print("Name")
+print("Names")
